@@ -1,3 +1,0 @@
-[console_scripts]
-k8satt = k8satt.k8satt:main
-
