@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: k8satt
-Version: 0.0.1
-Summary: kubernetes all the things
-Home-page: https://github.com/hhollenstain/k8satt
-License: UNKNOWN
-Description: UNKNOWN
-Platform: UNKNOWN
-Provides-Extra: test
