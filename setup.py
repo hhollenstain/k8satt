@@ -6,6 +6,7 @@ import k8satt
 
 INSTALL_REQUIREMENTS = [
     'boto3==1.7.84',
+    'coloredlogs'
 ]
 
 TEST_REQUIREMENTS = {
